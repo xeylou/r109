@@ -1,9 +1,8 @@
 {
 
     "extensions": [
-
-        "ms-vscode.live-server"
-
-    ]
+		"ms-vscode.live-server",
+		"MS-vsliveshare.vsliveshare"
+	]
 
 }
