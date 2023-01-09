@@ -1,11 +1,11 @@
 {
-   "name": "Azure Sphere Blink",
+   "name": "test",
    "hostRequirements": {
    		"cpus": 4,
    		"memory": "8gb",
    		"storage": "32gb" 
     },
-    "remoteUser": "vscode",
+    // "remoteUser": "vscode",
     "extensions": [
 		"ms-vscode.live-server",
 		"MS-vsliveshare.vsliveshare"
