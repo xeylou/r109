@@ -9,5 +9,5 @@
     "extensions": [
 		"ms-vscode.live-server",
 		"MS-vsliveshare.vsliveshare"
-    ],
+    ]
 }
