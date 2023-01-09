@@ -5,9 +5,9 @@
    		"memory": "8gb",
    		"storage": "32gb" 
     },
-   "extensions": [
+    "remoteUser": "vscode",
+    "extensions": [
 		"ms-vscode.live-server",
 		"MS-vsliveshare.vsliveshare"
-	],
-   "remoteUser": "vscode",
+    ],
 }
